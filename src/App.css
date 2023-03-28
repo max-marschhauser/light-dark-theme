@@ -22,6 +22,7 @@ body {
 	padding: 2rem;
 	background: var(--bg);
 	color: var(--fg);
+	overflow: hidden;
 }
 
 article {
